@@ -1899,3 +1899,261 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Normal.Ch25_1002_Normal
 [2021.08.01-12.56.36:485][459]LogContentBrowser: Deferred new asset folder creation: NewFolder
 [2021.08.01-12.56.36:505][459]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.01-12.56.38:243][668]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2021.08.01-12.56.38:250][668]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.01-12.56.57:978][116]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Zombie Running.fbx)
+[2021.08.01-12.56.57:987][116]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Zombie Running.fbx
+[2021.08.01-12.56.58:007][116]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.57.01:725][116]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.57.01:743][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.01-12.57.01:749][116]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.01-12.57.01:835][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.08.01-12.57.01:835][116]FBXImport: Import was canceled. 
+[2021.08.01-12.57.01:836][116]LogAssetTools: The import task was canceled.
+[2021.08.01-12.57.21:410][370]LogContentBrowser: Attempting asset rename: Ch25_nonPBR -> Ch25_nonPBR
+[2021.08.01-12.57.28:636][200]LogContentBrowser: Attempting asset rename: Ch25_nonPBR -> Ch25_nonPBR
+[2021.08.01-12.57.36:432][911]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Zombie Idle.fbx)
+[2021.08.01-12.57.36:441][911]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Zombie Idle.fbx
+[2021.08.01-12.57.36:469][911]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.57.41:029][911]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.57.41:058][911]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.57.41:059][911]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.57.41:059][911]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.01-12.57.41:829][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Idle.Zombie_Idle
+[2021.08.01-12.57.41:829][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Idle.Zombie_Idle
+[2021.08.01-12.57.41:829][911]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\82102\Downloads\Zombie Attack.fbx)
+[2021.08.01-12.57.41:863][911]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Zombie Attack.fbx
+[2021.08.01-12.57.41:896][911]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.57.41:898][911]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.57.41:898][911]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.57.41:898][911]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.57.41:898][911]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.57.41:898][911]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.57.41:898][911]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.57.41:899][911]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.57.41:900][911]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.57.41:900][911]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.57.41:900][911]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.57.41:900][911]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.57.41:900][911]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.57.41:900][911]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.57.41:900][911]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.57.41:900][911]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.01-12.58.10:244][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Attack.Zombie_Attack
+[2021.08.01-12.58.10:244][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Attack.Zombie_Attack
+[2021.08.01-12.58.10:246][911]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\82102\Downloads\Zombie Running.fbx)
+[2021.08.01-12.58.10:265][911]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Zombie Running.fbx
+[2021.08.01-12.58.10:300][911]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.58.10:302][911]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.58.10:303][911]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.58.10:304][911]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.58.10:304][911]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.58.10:304][911]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.58.10:304][911]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.58.10:304][911]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.01-12.58.10:484][912]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Running.Zombie_Running
+[2021.08.01-12.58.28:773][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.01-12.58.29:438][ 86]LogSlate: Window 'Save Content' being destroyed
+[2021.08.01-12.58.29:518][ 86]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Zombie_Attack5E5379D541DCBC91244BB38897A49105.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Attack.uasset'
+[2021.08.01-12.58.29:533][ 86]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Zombie_IdleD371114D4AB7084F5812DDA11BE85E46.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Idle.uasset'
+[2021.08.01-12.58.29:548][ 86]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Zombie_Running606122CA4C31EC49D3A06E92D57E3DDB.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Running.uasset'
+[2021.08.01-12.58.29:575][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.01-12.58.29:576][ 86]LogContentValidation: Display: Validating AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Running.Zombie_Running
+[2021.08.01-12.58.29:576][ 86]LogContentValidation: Display: Validating AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Attack.Zombie_Attack
+[2021.08.01-12.58.29:576][ 86]LogContentValidation: Display: Validating AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/Zombie_Idle.Zombie_Idle
+[2021.08.01-12.58.47:538][550]LogContentBrowser: Attempting asset rename: Zombie_Idle -> AI_DefaultZombie_Walk_Idle
+[2021.08.01-12.58.47:603][550]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/AI_DefaultZombie_Walk_IdleC85B6C75428486FE391727AEADEFC6B4.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Animation/AI_DefaultZombie_Walk_Idle.uasset'
+[2021.08.01-12.58.47:643][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.01-12.58.47:657][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.01-12.58.47:662][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.08.01-12.58.47:683][550]AssetCheck: New page: Asset Save: AI_DefaultZombie_Walk_Idle
+[2021.08.01-12.58.47:683][550]LogContentValidation: Display: Validating AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/AI_DefaultZombie_Walk_Idle.AI_DefaultZombie_Walk_Idle
+[2021.08.01-12.58.49:501][699]LogContentBrowser: Attempting asset rename: AI_DefaultZombie_Walk_Idle -> AI_DefaultZombie_Walk_Idle
+[2021.08.01-12.58.55:326][169]LogContentBrowser: Attempting asset rename: Zombie_Running -> AI_DefaultZombie_Walk_Forward
+[2021.08.01-12.58.55:387][169]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/AI_DefaultZombie_Walk_Forward125375C34B88A51DBB44A085D4170D09.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Animation/AI_DefaultZombie_Walk_Forward.uasset'
+[2021.08.01-12.58.55:441][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.08.01-12.58.55:452][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.01-12.58.55:457][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.08.01-12.58.55:476][169]AssetCheck: New page: Asset Save: AI_DefaultZombie_Walk_Forward
+[2021.08.01-12.58.55:476][169]LogContentValidation: Display: Validating AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/AI_DefaultZombie_Walk_Forward.AI_DefaultZombie_Walk_Forward
+[2021.08.01-12.59.02:680][755]LogContentBrowser: Attempting asset rename: Zombie_Attack -> AI_DefaultZombie_Combat
+[2021.08.01-12.59.02:779][755]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/AI_DefaultZombie_Combat0DB347B149B8BCCA3E756584C250E960.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Animation/AI_DefaultZombie_Combat.uasset'
+[2021.08.01-12.59.02:824][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.08.01-12.59.02:835][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.01-12.59.02:839][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.08.01-12.59.02:860][755]AssetCheck: New page: Asset Save: AI_DefaultZombie_Combat
+[2021.08.01-12.59.02:860][755]LogContentValidation: Display: Validating AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Animation/AI_DefaultZombie_Combat.AI_DefaultZombie_Combat
+[2021.08.01-12.59.04:042][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
