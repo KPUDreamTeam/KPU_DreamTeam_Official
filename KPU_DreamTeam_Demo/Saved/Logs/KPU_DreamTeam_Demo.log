@@ -958,3 +958,944 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.01-12.38.56:506][462]LogContentBrowser: Attempting asset rename: NewFolder -> AI
 [2021.08.01-12.38.56:506][462]LogContentBrowser: End creating deferred item NewFolder
 [2021.08.01-12.38.58:465][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.01-12.39.34:968][586]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.01-12.39.34:982][586]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.01-12.39.36:746][797]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2021.08.01-12.39.36:747][797]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.01-12.39.41:284][338]LogContentBrowser: Attempting asset rename: Character -> AI_Character
+[2021.08.01-12.39.43:834][608]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.01-12.39.43:849][608]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.01-12.39.46:966][982]LogContentBrowser: Attempting asset rename: NewFolder -> Default_Zombie
+[2021.08.01-12.39.46:967][982]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.01-12.39.52:203][450]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.01-12.39.52:217][450]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.01-12.39.53:901][651]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2021.08.01-12.39.53:901][651]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.01-12.40.03:125][  2]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Ch25_nonPBR.fbx)
+[2021.08.01-12.40.03:353][  2]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Ch25_nonPBR.fbx
+[2021.08.01-12.40.03:528][  2]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.40.30:224][  2]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.40.30:251][  2]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch25 : The relative matrices do not match
+[2021.08.01-12.40.30:251][  2]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.01-12.40.30:253][  2]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch25
+[2021.08.01-12.40.30:253][  2]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.01-12.40.30:262][  2]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.40.30:263][  2]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.40.31:010][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.40.31:010][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.40.31:010][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.40.31:010][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.40.31:010][  2]LogTexture: Display: Building textures: Ch25_1001_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.40.35:848][  2]LogTexture: Display: Building textures: Ch25_1001_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.40.36:939][  2]LogTexture: Display: Building textures: Ch25_1001_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.40.41:043][  2]LogTexture: Display: Building textures: Ch25_1001_Normal (BC5, 4096X4096)
+[2021.08.01-12.40.42:046][  2]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.40.42:064][  2]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.40.42:064][  2]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.40.42:076][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.40.42:076][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.40.42:076][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.40.42:076][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.40.42:751][  2]LogTexture: Display: Building textures: Ch25_1002_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.40.46:683][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.08.01-12.40.47:265][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.08.01-12.40.47:265][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.01-12.40.47:265][  2]LogTexture: Display: Building textures: Ch25_1002_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.40.48:568][  2]LogTexture: Display: Building textures: Ch25_1002_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.40.51:961][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.01-12.40.51:961][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.01-12.40.51:961][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.01-12.40.52:792][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.01-12.40.52:792][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.01-12.40.52:792][  2]LogTexture: Display: Building textures: Ch25_1002_Normal (BC5, 4096X4096)
+[2021.08.01-12.40.53:766][  2]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.40.53:782][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.40.53:782][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.40.53:782][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.40.53:782][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.40.53:782][  2]LogFbx: Triangulating skeletal mesh Ch25
+[2021.08.01-12.41.01:873][  2]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.08.01-12.41.07:597][  2]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.41.07:597][  2]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.41.07:884][  2]LogSkeletalMesh: Building Skeletal Mesh Ch25_nonPBR...
+[2021.08.01-12.41.08:938][  2]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.41.08:939][  2]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.41.09:054][  2]LogSkeletalMesh: Built Skeletal Mesh [1.19s] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.Ch25_nonPBR
+[2021.08.01-12.41.09:142][  2]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.01-12.41.09:142][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.01-12.41.09:150][  2]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.41.09:150][  2]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.41.09:150][  2]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.41.09:150][  2]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.41.09:150][  2]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.41.09:150][  2]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.41.09:150][  2]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.41.09:151][  2]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.41.09:153][  2]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.41.09:155][  2]LogFbx: Parsing AnimStack Take 001
+[2021.08.01-12.41.13:842][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Anim_Take_001.Ch25_nonPBR_Anim_Take_001
+[2021.08.01-12.41.13:842][  2]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.01-12.41.13:889][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Anim_mixamo_com.Ch25_nonPBR_Anim_mixamo_com
+[2021.08.01-12.41.13:955][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.01-12.41.13:955][  2]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.08.01-12.41.14:069][  2]LogSlate: Took 0.014621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.01-12.42.02:116][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.01-12.42.03:375][558]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.01-12.42.03:404][558]LogUObjectGlobals: Force Deleting 15 Package(s):
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Skeleton.Ch25_nonPBR_Skeleton
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Diffuse.Ch25_1001_Diffuse
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Glossiness.Ch25_1001_Glossiness
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Normal.Ch25_1001_Normal
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Specular.Ch25_1001_Specular
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Diffuse.Ch25_1002_Diffuse
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Glossiness.Ch25_1002_Glossiness
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Normal.Ch25_1002_Normal
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Specular.Ch25_1002_Specular
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body
+[2021.08.01-12.42.04:461][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:462][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:462][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:462][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:463][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:463][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:464][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:464][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:464][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:465][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:465][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:465][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:466][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:466][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:466][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:467][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:467][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:467][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:468][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:468][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:468][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:469][558]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.04:469][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:469][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:470][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:470][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:470][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:471][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:472][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:472][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:472][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:473][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:473][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:473][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:474][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:474][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:475][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:475][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:475][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:476][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:476][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:476][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:477][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:477][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:477][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:478][558]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.04:478][558]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.42.04:478][558]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.42.04:787][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.08.01-12.42.07:607][694]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Ch25_nonPBR.fbx)
+[2021.08.01-12.42.07:787][694]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Ch25_nonPBR.fbx
+[2021.08.01-12.42.07:948][694]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.42.20:634][694]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.42.20:650][694]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch25 : The relative matrices do not match
+[2021.08.01-12.42.20:650][694]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.01-12.42.20:650][694]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch25
+[2021.08.01-12.42.20:650][694]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.01-12.42.20:654][694]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.42.20:654][694]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.21:271][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.42.21:271][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.42.21:271][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.42.21:271][694]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.42.21:271][694]LogTexture: Display: Building textures: Ch25_1001_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.42.25:364][694]LogTexture: Display: Building textures: Ch25_1001_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.42.26:244][694]LogTexture: Display: Building textures: Ch25_1001_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.42.29:448][694]LogTexture: Display: Building textures: Ch25_1001_Normal (BC5, 4096X4096)
+[2021.08.01-12.42.30:240][694]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.42.30:252][694]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.42.30:255][694]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.30:266][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.42.30:266][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.42.30:266][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.42.30:266][694]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.42.30:867][694]LogTexture: Display: Building textures: Ch25_1002_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.42.34:701][694]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.08.01-12.42.34:701][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.08.01-12.42.34:701][694]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.01-12.42.34:701][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.08.01-12.42.35:151][694]LogTexture: Display: Building textures: Ch25_1002_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.42.35:926][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.01-12.42.36:143][694]LogTexture: Display: Building textures: Ch25_1002_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.42.39:014][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.01-12.42.39:014][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.01-12.42.39:014][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.01-12.42.39:621][694]LogTexture: Display: Building textures: Ch25_1002_Normal (BC5, 4096X4096)
+[2021.08.01-12.42.40:397][694]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.42.40:408][694]LogFbx: Triangulating skeletal mesh Ch25
+[2021.08.01-12.42.41:750][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.42.41:750][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.42.41:750][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.42.41:750][694]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.42.41:751][694]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.08.01-12.42.43:152][694]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.42.43:152][694]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.42.43:360][694]LogSkeletalMesh: Building Skeletal Mesh Ch25_nonPBR...
+[2021.08.01-12.42.44:295][694]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.42.44:295][694]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.42.44:367][694]LogSkeletalMesh: Built Skeletal Mesh [1.02s] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.Ch25_nonPBR
+[2021.08.01-12.42.44:426][694]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.01-12.42.44:426][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.42.44:432][694]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.42.44:433][694]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.42.44:434][694]LogFbx: Parsing AnimStack Take 001
+[2021.08.01-12.42.48:610][694]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Anim_Take_001.Ch25_nonPBR_Anim_Take_001
+[2021.08.01-12.42.48:610][694]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.01-12.42.48:654][694]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Anim_mixamo_com.Ch25_nonPBR_Anim_mixamo_com
+[2021.08.01-12.42.48:714][694]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.01-12.42.48:714][694]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.08.01-12.44.11:775][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.08.01-12.44.12:703][296]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.01-12.44.12:804][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.08.01-12.44.16:104][431]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Ch25_nonPBR.fbx)
+[2021.08.01-12.44.16:288][431]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Ch25_nonPBR.fbx
+[2021.08.01-12.44.16:438][431]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.44.18:807][431]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.44.18:822][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.08.01-12.44.18:823][431]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.01-12.44.18:917][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.08.01-12.44.18:917][431]FBXImport: Import was canceled. 
+[2021.08.01-12.44.18:919][431]LogAssetTools: The import task was canceled.
+[2021.08.01-12.44.24:557][867]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Ch25_nonPBR.fbx)
+[2021.08.01-12.44.24:781][867]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Ch25_nonPBR.fbx
+[2021.08.01-12.44.24:948][867]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.44.44:038][867]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.44.44:057][867]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch25 : The relative matrices do not match
+[2021.08.01-12.44.44:058][867]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.01-12.44.44:058][867]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch25
+[2021.08.01-12.44.44:058][867]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.01-12.44.44:063][867]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.44.44:064][867]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.44.44:699][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.44.44:699][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.44.44:699][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.44.44:699][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.44.44:699][867]LogTexture: Display: Building textures: Ch25_1001_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.44.49:078][867]LogTexture: Display: Building textures: Ch25_1001_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.44.50:066][867]LogTexture: Display: Building textures: Ch25_1001_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.44.53:541][867]LogTexture: Display: Building textures: Ch25_1001_Normal (BC5, 4096X4096)
+[2021.08.01-12.44.54:563][867]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.44.54:578][867]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.44.54:580][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.44.54:580][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.44.54:580][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.44.54:580][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.44.54:580][867]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.44.55:434][867]LogTexture: Display: Building textures: Ch25_1002_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.44.59:705][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.44.59:705][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.08.01-12.45.00:186][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.01-12.45.00:186][867]LogTexture: Display: Building textures: Ch25_1002_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.45.01:787][867]LogTexture: Display: Building textures: Ch25_1002_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.45.04:862][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.08.01-12.45.04:862][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.01-12.45.04:862][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.01-12.45.04:862][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.01-12.45.04:862][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.01-12.45.05:590][867]LogTexture: Display: Building textures: Ch25_1002_Normal (BC5, 4096X4096)
+[2021.08.01-12.45.06:749][867]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.45.06:767][867]LogFbx: Triangulating skeletal mesh Ch25
+[2021.08.01-12.45.08:333][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.45.08:333][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.45.08:333][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.45.08:333][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.45.08:335][867]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.08.01-12.45.09:890][867]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.45.09:890][867]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.45.10:085][867]LogSkeletalMesh: Building Skeletal Mesh Ch25_nonPBR...
+[2021.08.01-12.45.11:090][867]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.45.11:091][867]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.45.11:170][867]LogSkeletalMesh: Built Skeletal Mesh [1.08s] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.Ch25_nonPBR
+[2021.08.01-12.45.11:236][867]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.01-12.45.11:236][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.45.11:243][867]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(0) Hips
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(1) Spine
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(2) Spine1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(3) Spine2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(4) Neck
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(5) Head
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(32) RightArm
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(34) RightHand
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.01-12.45.11:244][867]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.01-12.45.11:245][867]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.01-12.45.11:246][867]LogFbx: Parsing AnimStack Take 001
+[2021.08.01-12.45.16:080][867]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Anim_Take_001.Ch25_nonPBR_Anim_Take_001
+[2021.08.01-12.45.16:101][867]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.01-12.45.16:161][867]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Anim_mixamo_com.Ch25_nonPBR_Anim_mixamo_com
+[2021.08.01-12.45.16:227][867]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.01-12.45.16:227][867]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.08.01-12.49.17:479][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.08.01-12.49.17:497][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI/Level/Level_AI_Test' took 0.030
+[2021.08.01-12.49.17:538][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR] ([1] browsable assets)...
+[2021.08.01-12.49.17:557][186]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.Ch25_nonPBR]
+[2021.08.01-12.49.17:557][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR]
+[2021.08.01-12.49.17:711][186]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_nonPBR_Auto1D54DA02B4966B4DEC362B6B44054908F.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Autosaves/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Auto1.uasset'
+[2021.08.01-12.49.17:711][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Skeleton] ([1] browsable assets)...
+[2021.08.01-12.49.17:712][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Skeleton]
+[2021.08.01-12.49.17:713][186]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_nonPBR_Skeleton_Auto1802790F34CAC5EF54DEA19B5F1A15257.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Autosaves/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Skeleton_Auto1.uasset'
+[2021.08.01-12.49.17:714][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_PhysicsAsset] ([1] browsable assets)...
+[2021.08.01-12.49.17:732][186]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_PhysicsAsset.Ch25_nonPBR_PhysicsAsset]
+[2021.08.01-12.49.17:732][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_PhysicsAsset]
+[2021.08.01-12.49.17:740][186]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_nonPBR_PhysicsAsset_Auto1C24FD22C4F6A563157120E8CD42EA4BB.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Autosaves/Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_PhysicsAsset_Auto1.uasset'
+[2021.08.01-12.49.17:741][186]LogFileHelpers: Auto-saving content packages took 0.243
+[2021.08.01-12.50.27:095][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.01-12.50.28:357][159]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.01-12.50.28:382][159]LogUObjectGlobals: Force Deleting 15 Package(s):
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Diffuse.Ch25_1001_Diffuse
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Glossiness.Ch25_1001_Glossiness
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Normal.Ch25_1001_Normal
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Specular.Ch25_1001_Specular
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Diffuse.Ch25_1002_Diffuse
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Glossiness.Ch25_1002_Glossiness
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Normal.Ch25_1002_Normal
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Specular.Ch25_1002_Specular
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body
+	Asset Name: /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1
+[2021.08.01-12.50.28:467][159]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.50.28:467][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:467][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:468][159]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.50.28:469][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:469][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:469][159]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.50.28:470][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:470][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:470][159]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.50.28:471][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:471][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:472][159]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.50.28:472][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:472][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:659][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:660][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:660][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:662][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:663][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:663][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:664][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:665][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:665][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:667][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:668][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:668][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:670][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:671][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:671][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:672][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:673][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:674][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:675][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:676][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:676][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:678][159]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.50.28:679][159]LogMaterial: Warning: [AssetLog] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.01-12.50.28:679][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.01-12.50.28:971][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.01-12.50.33:498][313]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Ch25_nonPBR.fbx)
+[2021.08.01-12.50.33:680][313]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Ch25_nonPBR.fbx
+[2021.08.01-12.50.34:176][313]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.51.13:241][313]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.51.13:276][313]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch25 : The relative matrices do not match
+[2021.08.01-12.51.13:276][313]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.01-12.51.13:277][313]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch25
+[2021.08.01-12.51.13:277][313]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.01-12.51.13:280][313]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.51.13:281][313]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.51.13:901][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.51.13:901][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.51.13:902][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.51.13:902][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.51.13:902][313]LogTexture: Display: Building textures: Ch25_1001_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.51.17:947][313]LogTexture: Display: Building textures: Ch25_1001_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.51.18:864][313]LogTexture: Display: Building textures: Ch25_1001_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.51.22:019][313]LogTexture: Display: Building textures: Ch25_1001_Normal (BC5, 4096X4096)
+[2021.08.01-12.51.22:839][313]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.51.22:850][313]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.51.22:853][313]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.51.22:864][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.51.22:864][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.51.22:864][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.51.22:864][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.51.23:483][313]LogTexture: Display: Building textures: Ch25_1002_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.51.27:334][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.08.01-12.51.27:334][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.51.27:334][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.01-12.51.27:334][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.08.01-12.51.27:731][313]LogTexture: Display: Building textures: Ch25_1002_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.51.28:500][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.01-12.51.28:682][313]LogTexture: Display: Building textures: Ch25_1002_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.51.31:455][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.01-12.51.31:455][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.01-12.51.31:455][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.01-12.51.32:054][313]LogTexture: Display: Building textures: Ch25_1002_Normal (BC5, 4096X4096)
+[2021.08.01-12.51.32:861][313]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.51.32:872][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.51.32:872][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.51.32:872][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.51.32:873][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.51.32:873][313]LogFbx: Triangulating skeletal mesh Ch25
+[2021.08.01-12.51.34:234][313]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.08.01-12.51.35:637][313]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.51.35:637][313]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.51.35:834][313]LogSkeletalMesh: Building Skeletal Mesh Ch25_nonPBR...
+[2021.08.01-12.51.36:730][313]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.51.36:730][313]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.51.36:800][313]LogSkeletalMesh: Built Skeletal Mesh [0.97s] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.Ch25_nonPBR
+[2021.08.01-12.51.36:854][313]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.01-12.51.36:854][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.01-12.51.36:899][313]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.01-12.51.36:899][313]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.08.01-12.55.18:286][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.01-12.55.19:368][ 30]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.01-12.55.19:444][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.08.01-12.55.21:929][101]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\82102\Downloads\Ch25_nonPBR.fbx)
+[2021.08.01-12.55.22:133][101]LogFbx: Loading FBX Scene from C:\Users\82102\Downloads\Ch25_nonPBR.fbx
+[2021.08.01-12.55.22:348][101]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.01-12.55.24:598][101]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.01-12.55.24:612][101]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch25 : The relative matrices do not match
+[2021.08.01-12.55.24:612][101]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.01-12.55.24:613][101]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch25
+[2021.08.01-12.55.24:613][101]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.01-12.55.24:620][101]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.55.24:637][101]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.55.25:243][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.55.25:243][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.55.25:243][101]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.55.25:243][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.55.25:243][101]LogTexture: Display: Building textures: Ch25_1001_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.55.29:790][101]LogTexture: Display: Building textures: Ch25_1001_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.55.30:727][101]LogTexture: Display: Building textures: Ch25_1001_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.55.34:004][101]LogTexture: Display: Building textures: Ch25_1001_Normal (BC5, 4096X4096)
+[2021.08.01-12.55.34:938][101]LogMaterial: Display: Missing cached shader map for material Ch25_Body, compiling. 
+[2021.08.01-12.55.34:952][101]LogMaterial: Display: Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.01-12.55.34:956][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.55.34:956][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.55.34:956][101]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.55.34:956][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.55.34:956][101]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.55.35:722][101]LogTexture: Display: Building textures: Ch25_1002_Diffuse (AutoDXT, 4096X4096)
+[2021.08.01-12.55.39:559][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.55.39:560][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.55.39:560][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.01-12.55.39:986][101]LogTexture: Display: Building textures: Ch25_1002_Specular (AutoDXT, 4096X4096)
+[2021.08.01-12.55.40:981][101]LogTexture: Display: Building textures: Ch25_1002_Glossiness (AutoDXT, 4096X4096)
+[2021.08.01-12.55.44:017][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.01-12.55.44:017][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.01-12.55.44:017][101]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.01-12.55.44:017][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.01-12.55.44:880][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.01-12.55.44:880][101]LogTexture: Display: Building textures: Ch25_1002_Normal (BC5, 4096X4096)
+[2021.08.01-12.55.45:716][101]LogMaterial: Display: Missing cached shader map for material Ch25_body1, compiling. 
+[2021.08.01-12.55.45:728][101]LogFbx: Triangulating skeletal mesh Ch25
+[2021.08.01-12.55.47:141][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.01-12.55.47:141][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.01-12.55.47:141][101]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.01-12.55.47:141][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.01-12.55.47:142][101]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.08.01-12.55.48:576][101]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.55.48:576][101]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.55.48:808][101]LogSkeletalMesh: Building Skeletal Mesh Ch25_nonPBR...
+[2021.08.01-12.55.49:844][101]LogSkeletalMesh: Section 0: Material=0, 29426 triangles
+[2021.08.01-12.55.49:844][101]LogSkeletalMesh: Section 1: Material=1, 14852 triangles
+[2021.08.01-12.55.49:933][101]LogSkeletalMesh: Built Skeletal Mesh [1.15s] /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.Ch25_nonPBR
+[2021.08.01-12.55.50:012][101]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.01-12.55.50:012][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.01-12.55.50:066][101]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.01-12.55.50:066][101]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.08.01-12.56.09:355][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.01-12.56.10:724][761]LogSlate: Window 'Save Content' being destroyed
+[2021.08.01-12.56.11:599][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1001_DiffuseCA3CF73048E9C8B6F9FCB1A98868802F.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Diffuse.uasset'
+[2021.08.01-12.56.11:889][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1001_Glossiness98B52C3141AF30642FDCB1B5C6A387C3.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Glossiness.uasset'
+[2021.08.01-12.56.13:319][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1001_Normal9444185E443F9C0A6D946F9364B7EA5E.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Normal.uasset'
+[2021.08.01-12.56.13:565][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1001_SpecularD2CCB2924661AB4429C57AB931D3F325.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Specular.uasset'
+[2021.08.01-12.56.14:353][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1002_DiffuseF5FFC1584A5C772479342A98B4692B24.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Diffuse.uasset'
+[2021.08.01-12.56.14:622][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1002_GlossinessDB2362EB4185A07C0F388B9B4189E9B3.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Glossiness.uasset'
+[2021.08.01-12.56.16:203][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1002_NormalDEDCA3474993AA0B467279830369E8F8.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Normal.uasset'
+[2021.08.01-12.56.16:445][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_1002_SpecularA12ECF5946C3C592F77B25A022E4BB57.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Specular.uasset'
+[2021.08.01-12.56.16:464][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_Body70F8B1CC48BC1077CBF3EC8BF7E4C499.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.uasset'
+[2021.08.01-12.56.16:480][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_body126F348F1486BCC55BC51669984F93180.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.uasset'
+[2021.08.01-12.56.16:597][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_nonPBR9F63E1FF435EE0D0F846499E2538DD9D.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.uasset'
+[2021.08.01-12.56.16:617][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_nonPBR_PhysicsAssetC46707DE46E586205C902F9D4A95EAF4.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_PhysicsAsset.uasset'
+[2021.08.01-12.56.16:619][761]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Ch25_nonPBR_Skeleton46B105CA4B57A6FF1283569B5C46EDF9.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Skeleton.uasset'
+[2021.08.01-12.56.16:648][761]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating PhysicsAsset /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_PhysicsAsset.Ch25_nonPBR_PhysicsAsset
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Skeleton /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR_Skeleton.Ch25_nonPBR_Skeleton
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Glossiness.Ch25_1002_Glossiness
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Specular.Ch25_1002_Specular
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Diffuse.Ch25_1002_Diffuse
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_body1.Ch25_body1
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Normal.Ch25_1001_Normal
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Glossiness.Ch25_1001_Glossiness
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Specular.Ch25_1001_Specular
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1001_Diffuse.Ch25_1001_Diffuse
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Material /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_Body.Ch25_Body
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating SkeletalMesh /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_nonPBR.Ch25_nonPBR
+[2021.08.01-12.56.16:649][761]LogContentValidation: Display: Validating Texture2D /Game/AI/AI/AI_Character/Default_Zombie/Character/Ch25_1002_Normal.Ch25_1002_Normal
+[2021.08.01-12.56.36:485][459]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.01-12.56.36:505][459]LogContentBrowser: Creating deferred item: NewFolder
