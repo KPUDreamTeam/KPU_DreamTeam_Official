@@ -1285,3 +1285,819 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.13-14.10.54:376][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.13-14.10.54:395][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
 [2021.08.13-14.10.54:420][849]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.08.13-14.12.10:739][495]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.08.13-14.12.51:765][248]BlueprintLog: New page: Compile BP_SaveGame
+[2021.08.13-14.12.51:808][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.08.13-14.12.52:792][346]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.12.52:799][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.12.52:799][346]PIE: New page: PIE session: Level_Stage1 (2021. 8. 14. 오전 8:12:52)
+[2021.08.13-14.12.52:847][346]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.12.53:035][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.187263s)
+[2021.08.13-14.12.53:036][346]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.12.53:036][346]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2021.08.13-14.12.53:036][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.188648s)
+[2021.08.13-14.12.53:072][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.08.13-14.12.53:073][346]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.12.53:073][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.12.53:073][346]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.12.53:073][346]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.12.53:075][346]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.12.53:075][346]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.12.53:089][346]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.12.53:089][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.12.53:089][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.12.53:089][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.12.53:089][346]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.12.53:089][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.12.53:089][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.12.53:102][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.12.53:102][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.12.53:102][346]LogInit: FAudioDevice initialized.
+[2021.08.13-14.12.53:102][346]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_Stage1'.
+[2021.08.13-14.12.53:114][346]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.12.53:117][346]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.12.53
+[2021.08.13-14.12.53:118][346]LogWorld: Bringing up level for play took: 0.003088
+[2021.08.13-14.12.53:118][346]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.08.13-14.12.53:121][346]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.13-14.12.53:122][346]PIE: Server logged in
+[2021.08.13-14.12.53:123][346]PIE: Play in editor total start time 0.325 seconds.
+[2021.08.13-14.12.55:807][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.12.55:808][662]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.12.55:808][662]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.12.55:808][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.12.55:825][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.12.55:871][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.12.55:940][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.12.55:941][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.12.55:942][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.12.55:973][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.12.55:982][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.08.13-14.12.56:044][663]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.08.13-14.12.58:100][903]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.12.58:106][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.12.58:106][903]PIE: New page: PIE session: Level_Stage1 (2021. 8. 14. 오전 8:12:58)
+[2021.08.13-14.12.58:137][903]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.12.58:222][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084510s)
+[2021.08.13-14.12.58:224][903]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.12.58:224][903]LogPlayLevel: PIE: World Init took: (0.002551s)
+[2021.08.13-14.12.58:224][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.087316s)
+[2021.08.13-14.12.58:263][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.08.13-14.12.58:265][903]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.13-14.12.58:265][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.12.58:265][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.12.58:265][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.12.58:265][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.12.58:265][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.12.58:265][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.12.58:265][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.12.58:265][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.12.58:266][903]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.12.58:266][903]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.12.58:268][903]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.12.58:268][903]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.12.58:280][903]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.12.58:280][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.12.58:280][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.12.58:280][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.12.58:281][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.12.58:281][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.12.58:281][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.12.58:294][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.12.58:294][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.12.58:294][903]LogInit: FAudioDevice initialized.
+[2021.08.13-14.12.58:294][903]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_Stage1'.
+[2021.08.13-14.12.58:299][903]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.12.58:303][903]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.12.58
+[2021.08.13-14.12.58:304][903]LogWorld: Bringing up level for play took: 0.003242
+[2021.08.13-14.12.58:304][903]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.08.13-14.12.58:308][903]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.13-14.12.58:308][903]PIE: Server logged in
+[2021.08.13-14.12.58:309][903]PIE: Play in editor total start time 0.204 seconds.
+[2021.08.13-14.13.00:740][189]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.13.00:740][189]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.13.04:534][644]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.13.04:534][644]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.13.06:244][848]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.13.06:244][848]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.13.07:195][962]Cmd: RestartLevel
+[2021.08.13-14.13.07:195][962]LogNet: Browse: /Game/StageLevel/Level_Stage1?restart
+[2021.08.13-14.13.07:195][962]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.13.07:195][962]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.13.07:196][962]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.13.07:196][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.13.07:258][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.13.07:262][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.08.13-14.13.07:264][962]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.13.07:329][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063840s)
+[2021.08.13-14.13.07:329][962]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.13.07:330][962]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.08.13-14.13.07:330][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.065073s)
+[2021.08.13-14.13.07:330][962]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_Stage1'.
+[2021.08.13-14.13.07:330][962]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.13.07:334][962]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.13.07
+[2021.08.13-14.13.07:335][962]LogWorld: Bringing up level for play took: 0.004055
+[2021.08.13-14.13.07:338][962]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.13.07:338][962]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.13.07:339][962]LogLoad: Took 0.142995 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Stage1)
+[2021.08.13-14.13.09:452][213]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.13.09:452][213]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.13.10:301][315]Cmd: save1
+[2021.08.13-14.13.10:301][315]Command not recognized: save1
+[2021.08.13-14.13.10:301][315]Cmd: RestartLevel
+[2021.08.13-14.13.10:302][315]LogNet: Browse: /Game/StageLevel/Level_Stage1?restart
+[2021.08.13-14.13.10:302][315]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.13.10:302][315]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.13.10:302][315]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.13.10:303][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.13.10:358][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.13.10:363][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.08.13-14.13.10:364][315]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.13.10:426][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061871s)
+[2021.08.13-14.13.10:428][315]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.13.10:428][315]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2021.08.13-14.13.10:428][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.063616s)
+[2021.08.13-14.13.10:428][315]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_Stage1'.
+[2021.08.13-14.13.10:428][315]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.13.10:433][315]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.13.10
+[2021.08.13-14.13.10:434][315]LogWorld: Bringing up level for play took: 0.004990
+[2021.08.13-14.13.10:437][315]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.13.10:437][315]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.13.10:437][315]LogLoad: Took 0.135688 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Stage1)
+[2021.08.13-14.13.13:636][696]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.13.13:636][696]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.13.16:027][983]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.13.16:027][983]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.13.17:604][172]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.13.17:604][172]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.13.18:320][258]Cmd: RestartLevel
+[2021.08.13-14.13.18:320][258]LogNet: Browse: /Game/StageLevel/Level_Stage1?restart
+[2021.08.13-14.13.18:320][258]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.13.18:320][258]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.13.18:321][258]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.13.18:321][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.13.18:378][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.13.18:382][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.08.13-14.13.18:384][258]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.13.18:446][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062188s)
+[2021.08.13-14.13.18:448][258]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.13.18:448][258]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2021.08.13-14.13.18:448][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.063601s)
+[2021.08.13-14.13.18:448][258]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_Stage1'.
+[2021.08.13-14.13.18:448][258]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.13.18:453][258]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.13.18
+[2021.08.13-14.13.18:454][258]LogWorld: Bringing up level for play took: 0.005414
+[2021.08.13-14.13.18:456][258]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.13.18:456][258]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.13.18:458][258]LogLoad: Took 0.136717 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Stage1)
+[2021.08.13-14.13.19:218][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.13.19:218][343]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.13.19:218][343]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.13.19:218][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.13.19:229][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.13.19:245][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.13.19:295][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.13.19:296][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.13.19:297][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.13.19:325][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.13-14.13.19:395][344]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.08.13-14.13.21:745][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/BP_SaveGame" FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/System/BP_SaveGame.uasset" SILENT=true
+[2021.08.13-14.13.21:746][592]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/BP_SaveGameEE32AB7546824C6AF9710E9A79CA7006.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/System/BP_SaveGame.uasset'
+[2021.08.13-14.13.21:758][592]AssetCheck: New page: Asset Save: BP_SaveGame
+[2021.08.13-14.13.21:758][592]LogContentValidation: Display: Validating Blueprint /Game/System/BP_SaveGame.BP_SaveGame
+[2021.08.13-14.14.57:921][401]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.14.57:927][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.14.57:927][401]PIE: New page: PIE session: Level_Stage1 (2021. 8. 14. 오전 8:14:57)
+[2021.08.13-14.14.57:967][401]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.14.58:103][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136461s)
+[2021.08.13-14.14.58:104][401]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.14.58:105][401]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2021.08.13-14.14.58:105][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.138415s)
+[2021.08.13-14.14.58:147][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.08.13-14.14.58:150][401]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.14.58:150][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.14.58:150][401]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.14.58:150][401]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.14.58:153][401]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.14.58:153][401]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.14.58:166][401]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.14.58:166][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.14.58:166][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.14.58:166][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.14.58:166][401]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.14.58:167][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.14.58:167][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.14.58:180][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.14.58:180][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.14.58:180][401]LogInit: FAudioDevice initialized.
+[2021.08.13-14.14.58:180][401]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_Stage1'.
+[2021.08.13-14.14.58:188][401]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.14.58:191][401]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.14.58
+[2021.08.13-14.14.58:192][401]LogWorld: Bringing up level for play took: 0.003195
+[2021.08.13-14.14.58:192][401]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.08.13-14.14.58:195][401]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.13-14.14.58:196][401]PIE: Server logged in
+[2021.08.13-14.14.58:197][401]PIE: Play in editor total start time 0.271 seconds.
+[2021.08.13-14.15.03:818][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.15.03:818][ 68]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.15.03:818][ 68]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.15.03:819][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.15.03:835][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.15.03:877][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.15.03:946][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.15.03:946][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.15.03:947][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.15.03:972][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.08.13-14.15.04:017][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.13-14.15.05:146][186]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.15.05:152][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.15.05:152][186]PIE: New page: PIE session: Level_Stage1 (2021. 8. 14. 오전 8:15:05)
+[2021.08.13-14.15.05:177][186]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.15.05:241][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063791s)
+[2021.08.13-14.15.05:241][186]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.15.05:242][186]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2021.08.13-14.15.05:242][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.065046s)
+[2021.08.13-14.15.05:276][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.08.13-14.15.05:277][186]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.08.13-14.15.05:277][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.15.05:277][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.15.05:277][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.15.05:277][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.15.05:277][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.15.05:277][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.15.05:277][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.15.05:277][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.15.05:278][186]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.15.05:278][186]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.15.05:280][186]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.15.05:280][186]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.15.05:293][186]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.15.05:293][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.15.05:293][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.15.05:293][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.15.05:294][186]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.15.05:294][186]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.15.05:294][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.15.05:307][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.15.05:307][186]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.15.05:307][186]LogInit: FAudioDevice initialized.
+[2021.08.13-14.15.05:307][186]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_Stage1'.
+[2021.08.13-14.15.05:316][186]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.15.05:319][186]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.15.05
+[2021.08.13-14.15.05:320][186]LogWorld: Bringing up level for play took: 0.003015
+[2021.08.13-14.15.05:320][186]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.08.13-14.15.05:323][186]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.13-14.15.05:323][186]PIE: Server logged in
+[2021.08.13-14.15.05:324][186]PIE: Play in editor total start time 0.172 seconds.
+[2021.08.13-14.15.10:740][831]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.15.10:740][831]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.15.12:773][ 75]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.15.12:773][ 75]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.15.14:998][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.15.14:998][338]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.15.14:998][338]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.15.14:998][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.15.15:008][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.15.15:053][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.15.15:113][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.15.15:113][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.15.15:114][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.15.15:145][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.15.15:153][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.08.13-14.15.15:207][339]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.08.13-14.15.30:734][647]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.15.30:740][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.15.30:740][647]PIE: New page: PIE session: Level_Stage1 (2021. 8. 14. 오전 8:15:30)
+[2021.08.13-14.15.30:776][647]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.15.30:909][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132151s)
+[2021.08.13-14.15.30:911][647]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.15.30:911][647]LogPlayLevel: PIE: World Init took: (0.002368s)
+[2021.08.13-14.15.30:911][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.134791s)
+[2021.08.13-14.15.30:963][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.08.13-14.15.30:966][647]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.15.30:966][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.15.30:966][647]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.15.30:966][647]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.15.30:969][647]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.15.30:969][647]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.15.30:984][647]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.15.30:984][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.15.30:984][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.15.30:984][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.15.30:984][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.15.30:984][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.15.30:984][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.15.31:000][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.15.31:000][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.15.31:000][647]LogInit: FAudioDevice initialized.
+[2021.08.13-14.15.31:000][647]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_Stage1'.
+[2021.08.13-14.15.31:006][647]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.15.31:009][647]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.15.31
+[2021.08.13-14.15.31:010][647]LogWorld: Bringing up level for play took: 0.003214
+[2021.08.13-14.15.31:010][647]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.08.13-14.15.31:014][647]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.13-14.15.31:014][647]PIE: Server logged in
+[2021.08.13-14.15.31:015][647]PIE: Play in editor total start time 0.276 seconds.
+[2021.08.13-14.15.44:310][240]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.15.44:310][240]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.15.46:276][476]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.15.46:276][476]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.15.56:278][676]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.15.56:279][676]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.15.59:390][ 45]Cmd: RestartLevel
+[2021.08.13-14.15.59:391][ 45]LogNet: Browse: /Game/StageLevel/Level_Stage1?restart
+[2021.08.13-14.15.59:391][ 45]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.15.59:391][ 45]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.15.59:391][ 45]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.15.59:392][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.15.59:447][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.15.59:451][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.08.13-14.15.59:452][ 45]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.15.59:514][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061774s)
+[2021.08.13-14.15.59:515][ 45]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.15.59:516][ 45]LogPlayLevel: PIE: World Init took: (0.001750s)
+[2021.08.13-14.15.59:516][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.063731s)
+[2021.08.13-14.15.59:516][ 45]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_Stage1'.
+[2021.08.13-14.15.59:516][ 45]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.15.59:521][ 45]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.15.59
+[2021.08.13-14.15.59:522][ 45]LogWorld: Bringing up level for play took: 0.004779
+[2021.08.13-14.15.59:524][ 45]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.15.59:524][ 45]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.15.59:525][ 45]LogLoad: Took 0.135444 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Stage1)
+[2021.08.13-14.16.01:689][302]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.16.01:689][302]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.16.02:547][405]Cmd: save1
+[2021.08.13-14.16.02:547][405]Command not recognized: save1
+[2021.08.13-14.16.02:547][405]Cmd: RestartLevel
+[2021.08.13-14.16.02:548][405]LogNet: Browse: /Game/StageLevel/Level_Stage1?restart
+[2021.08.13-14.16.02:548][405]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.16.02:548][405]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.16.02:548][405]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.16.02:549][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.16.02:608][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.16.02:612][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.08.13-14.16.02:613][405]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.16.02:672][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059109s)
+[2021.08.13-14.16.02:673][405]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.16.02:673][405]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2021.08.13-14.16.02:673][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.060445s)
+[2021.08.13-14.16.02:673][405]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_Stage1'.
+[2021.08.13-14.16.02:673][405]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.16.02:678][405]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.16.02
+[2021.08.13-14.16.02:679][405]LogWorld: Bringing up level for play took: 0.004341
+[2021.08.13-14.16.02:682][405]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.16.02:682][405]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.16.02:683][405]LogLoad: Took 0.135599 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Stage1)
+[2021.08.13-14.16.02:987][439]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.16.02:987][439]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.16.04:720][647]Cmd: RestartLevel
+[2021.08.13-14.16.04:721][647]LogNet: Browse: /Game/StageLevel/Level_Stage1?restart
+[2021.08.13-14.16.04:721][647]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.16.04:721][647]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.16.04:722][647]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.16.04:722][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.16.04:799][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.16.04:807][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.08.13-14.16.04:810][647]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.16.04:881][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071809s)
+[2021.08.13-14.16.04:883][647]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.16.04:883][647]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2021.08.13-14.16.04:883][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.073331s)
+[2021.08.13-14.16.04:883][647]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_Stage1'.
+[2021.08.13-14.16.04:883][647]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.16.04:885][647]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.16.04
+[2021.08.13-14.16.04:886][647]LogWorld: Bringing up level for play took: 0.002350
+[2021.08.13-14.16.04:889][647]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.16.04:889][647]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.16.04:890][647]LogLoad: Took 0.169393 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Stage1)
+[2021.08.13-14.16.06:987][896]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.16.06:987][896]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.16.08:700][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.16.08:700][ 96]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.16.08:700][ 96]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.16.08:701][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.16.08:714][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.16.08:771][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.16.08:840][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.16.08:840][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.16.08:842][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.16.08:881][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.08.13-14.16.08:933][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.08.13-14.16.56:225][819]BlueprintLog: New page: Compile BP_GM_MainChar
+[2021.08.13-14.16.56:286][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.08.13-14.16.57:556][934]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.16.57:562][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.16.57:562][934]PIE: New page: PIE session: Level_Stage1 (2021. 8. 14. 오전 8:16:57)
+[2021.08.13-14.16.57:596][934]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.16.57:662][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065655s)
+[2021.08.13-14.16.57:663][934]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.16.57:663][934]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2021.08.13-14.16.57:663][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.066846s)
+[2021.08.13-14.16.57:698][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.08.13-14.16.57:700][934]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.16.57:700][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.16.57:700][934]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.16.57:700][934]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.16.57:703][934]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.16.57:703][934]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.16.57:715][934]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.16.57:716][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.16.57:716][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.16.57:716][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.16.57:716][934]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.16.57:716][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.16.57:716][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.16.57:729][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.16.57:729][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.16.57:729][934]LogInit: FAudioDevice initialized.
+[2021.08.13-14.16.57:729][934]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_Stage1'.
+[2021.08.13-14.16.57:743][934]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.16.57:748][934]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.16.57
+[2021.08.13-14.16.57:749][934]LogWorld: Bringing up level for play took: 0.004827
+[2021.08.13-14.16.57:750][934]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.08.13-14.16.57:754][934]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.13-14.16.57:755][934]PIE: Server logged in
+[2021.08.13-14.16.57:757][934]PIE: Play in editor total start time 0.196 seconds.
+[2021.08.13-14.17.01:685][402]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.17.01:685][402]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.17.04:251][710]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.17.04:251][710]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.17.06:427][971]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.17.06:427][971]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.17.07:934][152]Cmd: RestartLevel
+[2021.08.13-14.17.07:935][152]LogNet: Browse: /Game/StageLevel/Level_Stage1?restart
+[2021.08.13-14.17.07:935][152]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.17.07:935][152]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.17.07:936][152]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.17.07:936][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.17.08:006][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.17.08:011][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.08.13-14.17.08:013][152]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.17.08:075][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062559s)
+[2021.08.13-14.17.08:076][152]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.17.08:077][152]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2021.08.13-14.17.08:077][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Stage1.Level_Stage1 to /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 (0.064106s)
+[2021.08.13-14.17.08:077][152]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_Stage1'.
+[2021.08.13-14.17.08:077][152]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.17.08:082][152]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.17.08
+[2021.08.13-14.17.08:082][152]LogWorld: Bringing up level for play took: 0.004583
+[2021.08.13-14.17.08:085][152]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.17.08:085][152]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.17.08:086][152]LogLoad: Took 0.150706 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Stage1)
+[2021.08.13-14.17.09:018][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.17.09:018][258]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.17.09:018][258]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.17.09:019][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.17.09:025][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.17.09:038][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.17.09:071][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.17.09:071][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.17.09:072][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.17.09:087][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.17.09:091][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.08.13-14.17.09:122][259]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.13-14.17.22:899][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.08.13-14.17.23:601][897]LogSlate: Window 'Save Content' being destroyed
+[2021.08.13-14.17.23:626][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/BP_GM_MainChar" FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/System/BP_GM_MainChar.uasset" SILENT=true
+[2021.08.13-14.17.23:641][897]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/BP_GM_MainChar1C810C1C48CC40EF55A10D93F14AE28A.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/System/BP_GM_MainChar.uasset'
+[2021.08.13-14.17.23:641][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_PauseLevel" FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_PauseLevel.uasset" SILENT=true
+[2021.08.13-14.17.23:658][897]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/HUD_PauseLevel399E5D1044F61286531BDBB455A11CB6.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_PauseLevel.uasset'
+[2021.08.13-14.17.23:691][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.13-14.17.23:903][897]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/Level_Stage132BBB65245EA610CADCAA2A18F2AAD94.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/StageLevel/Level_Stage1.umap'
+[2021.08.13-14.17.23:913][897]LogFileHelpers: Saving map 'Level_Stage1' took 0.254
+[2021.08.13-14.17.23:922][897]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.13-14.17.23:922][897]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HUD_PauseLevel.HUD_PauseLevel
+[2021.08.13-14.17.23:923][897]LogContentValidation: Display: Validating Blueprint /Game/System/BP_GM_MainChar.BP_GM_MainChar
+[2021.08.13-14.17.23:923][897]LogContentValidation: Display: Validating World /Game/StageLevel/Level_Stage1.Level_Stage1
+[2021.08.13-14.17.31:964][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.08.13-14.17.34:357][114]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/HUD_MainLevel.HUD_MainLevel
+[2021.08.13-14.19.14:131][407]BlueprintLog: New page: Compile HUD_MainLevel
+[2021.08.13-14.19.14:177][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.08.13-14.19.26:521][733]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.13-14.19.45:855][832]BlueprintLog: New page: Compile HUD_MainLevel
+[2021.08.13-14.19.45:897][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.08.13-14.19.50:763][371]BlueprintLog: New page: Compile HUD_MainLevel
+[2021.08.13-14.19.50:804][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.08.13-14.22.44:712][337]BlueprintLog: New page: Compile HUD_MainLevel
+[2021.08.13-14.22.44:755][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.08.13-14.22.45:221][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_MainLevel" FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_MainLevel.uasset" SILENT=true
+[2021.08.13-14.22.45:230][365]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/HUD_MainLevel311C79EF499B49E70026078FE199058A.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_MainLevel.uasset'
+[2021.08.13-14.22.45:244][365]AssetCheck: New page: Asset Save: HUD_MainLevel
+[2021.08.13-14.22.45:244][365]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HUD_MainLevel.HUD_MainLevel
+[2021.08.13-14.25.08:074][120]LogEditorTransaction: Undo Move Nodes
+[2021.08.13-14.25.10:225][295]LogEditorTransaction: Undo Move Node
+[2021.08.13-14.25.35:940][272]BlueprintLog: New page: Compile HUD_MainLevel
+[2021.08.13-14.25.36:001][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.08.13-14.26.52:706][122]LogEditorTransaction: Undo Move Node
+[2021.08.13-14.27.11:023][135]BlueprintLog: New page: Compile HUD_MainLevel
+[2021.08.13-14.27.11:066][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.08.13-14.27.11:402][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_MainLevel" FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_MainLevel.uasset" SILENT=true
+[2021.08.13-14.27.11:413][169]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/HUD_MainLevel93AE463847D353A68D006B98AADE4CF3.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_MainLevel.uasset'
+[2021.08.13-14.27.11:427][169]AssetCheck: New page: Asset Save: HUD_MainLevel
+[2021.08.13-14.27.11:427][169]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HUD_MainLevel.HUD_MainLevel
+[2021.08.13-14.27.23:661][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.08.13-14.27.24:537][559]LogSlate: Window 'Save Content' being destroyed
+[2021.08.13-14.27.24:567][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_PauseLevel" FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_PauseLevel.uasset" SILENT=true
+[2021.08.13-14.27.24:584][559]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/HUD_PauseLevel7860BA5949D0BF88CE0F52B1B92BBFBE.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_PauseLevel.uasset'
+[2021.08.13-14.27.24:597][559]AssetCheck: New page: Asset Save: HUD_PauseLevel
+[2021.08.13-14.27.24:597][559]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HUD_PauseLevel.HUD_PauseLevel
+[2021.08.13-14.27.28:027][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.13-14.27.28:106][933]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StageLevel/Level_Main.Level_Main
+[2021.08.13-14.27.28:116][933]Cmd: MAP LOAD FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/StageLevel/Level_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.13-14.27.28:116][933]LightingResults: New page: Lighting Build
+[2021.08.13-14.27.28:117][933]LoadErrors: New page: Loading map: Level_Main.umap
+[2021.08.13-14.27.28:177][933]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.27.28:177][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.27.28:178][933]MapCheck: New page: Map Check
+[2021.08.13-14.27.28:178][933]LightingResults: New page: Lighting Build
+[2021.08.13-14.27.28:255][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.27.28:294][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.08.13-14.27.28:300][933]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Main'.
+[2021.08.13-14.27.28:651][933]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.13-14.27.28:651][933]LogAIModule: Creating AISystem for world Level_Main
+[2021.08.13-14.27.28:740][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.08.13-14.27.28:753][933]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.13-14.27.28:753][933]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2021.08.13-14.27.28:753][933]LogFileHelpers: Loading map 'Level_Main' took 0.647
+[2021.08.13-14.27.29:206][977]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.27.29:212][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.27.29:212][977]PIE: New page: PIE session: Level_Main (2021. 8. 14. 오전 8:27:29)
+[2021.08.13-14.27.29:234][977]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.27.29:236][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001148s)
+[2021.08.13-14.27.29:237][977]LogAIModule: Creating AISystem for world Level_Main
+[2021.08.13-14.27.29:237][977]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2021.08.13-14.27.29:237][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Main.Level_Main to /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main (0.002576s)
+[2021.08.13-14.27.29:272][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.08.13-14.27.29:273][977]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.27.29:273][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.27.29:273][977]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.27.29:273][977]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.27.29:276][977]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.27.29:276][977]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.27.29:291][977]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.27.29:291][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.27.29:291][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.27.29:291][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.27.29:293][977]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.27.29:293][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.27.29:293][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.27.29:306][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.27.29:306][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.27.29:306][977]LogInit: FAudioDevice initialized.
+[2021.08.13-14.27.29:306][977]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_Main'.
+[2021.08.13-14.27.29:316][977]LogLoad: Game class is 'GameModeBase'
+[2021.08.13-14.27.29:317][977]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main up for play (max tick rate 0) at 2021.08.13-23.27.29
+[2021.08.13-14.27.29:317][977]LogWorld: Bringing up level for play took: 0.000249
+[2021.08.13-14.27.29:317][977]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.08.13-14.27.29:320][977]PIE: Server logged in
+[2021.08.13-14.27.29:320][977]PIE: Play in editor total start time 0.109 seconds.
+[2021.08.13-14.27.30:986][176]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.27.30:986][176]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.13-14.27.30:987][176]LogNet: Browse: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.27.30:987][176]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.27.30:987][176]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.27.30:988][176]LogWorld: UWorld::CleanupWorld for Level_Main, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.27.30:988][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.27.31:048][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.27.31:052][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.08.13-14.27.31:315][176]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_Stage1'.
+[2021.08.13-14.27.31:316][176]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.27.31:316][176]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.27.31:327][176]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.27.31
+[2021.08.13-14.27.31:328][176]LogWorld: Bringing up level for play took: 0.011439
+[2021.08.13-14.27.31:330][176]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.27.31:330][176]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.27.31:331][176]LogLoad: Took 0.343042 seconds to LoadMap(/Game/StageLevel/Level_Stage1)
+[2021.08.13-14.27.34:540][558]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.27.34:540][558]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.27.37:299][889]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.27.37:299][889]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.27.37:300][889]LogNet: Browse: /Game/StageLevel/Level_Main
+[2021.08.13-14.27.37:300][889]LogLoad: LoadMap: /Game/StageLevel/Level_Main
+[2021.08.13-14.27.37:300][889]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.27.37:301][889]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.27.37:301][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.27.37:369][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.27.37:377][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.08.13-14.27.37:378][889]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.27.37:379][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000886s)
+[2021.08.13-14.27.37:380][889]LogAIModule: Creating AISystem for world Level_Main
+[2021.08.13-14.27.37:380][889]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2021.08.13-14.27.37:380][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Main.Level_Main to /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main (0.001886s)
+[2021.08.13-14.27.37:380][889]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_Main'.
+[2021.08.13-14.27.37:380][889]LogLoad: Game class is 'GameModeBase'
+[2021.08.13-14.27.37:381][889]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main up for play (max tick rate 0) at 2021.08.13-23.27.37
+[2021.08.13-14.27.37:382][889]LogWorld: Bringing up level for play took: 0.000362
+[2021.08.13-14.27.37:382][889]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.13-14.27.37:383][889]LogLoad: Took 0.082998 seconds to LoadMap(/Game/StageLevel/UEDPIE_0_Level_Main)
+[2021.08.13-14.27.43:796][657]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.27.43:796][657]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.27.43:797][657]LogNet: Browse: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.27.43:797][657]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.27.43:797][657]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.27.43:797][657]LogWorld: UWorld::CleanupWorld for Level_Main, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.27.43:797][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.27.43:888][657]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.27.43:894][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2021.08.13-14.27.43:994][657]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_Stage1'.
+[2021.08.13-14.27.43:995][657]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.27.43:996][657]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.27.44:003][657]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.27.44
+[2021.08.13-14.27.44:004][657]LogWorld: Bringing up level for play took: 0.007630
+[2021.08.13-14.27.44:007][657]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.27.44:007][657]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.27.44:008][657]LogLoad: Took 0.211793 seconds to LoadMap(/Game/StageLevel/Level_Stage1)
+[2021.08.13-14.27.46:037][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.27.46:037][889]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.27.46:037][889]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.27.46:037][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.27.46:045][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.27.46:051][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.27.46:090][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.27.46:090][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.27.46:091][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.27.46:108][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.27.46:115][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.08.13-14.27.46:132][890]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.08.13-14.27.50:322][372]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.27.50:328][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.27.50:328][372]PIE: New page: PIE session: Level_Main (2021. 8. 14. 오전 8:27:50)
+[2021.08.13-14.27.50:355][372]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.27.50:357][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001439s)
+[2021.08.13-14.27.50:358][372]LogAIModule: Creating AISystem for world Level_Main
+[2021.08.13-14.27.50:358][372]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2021.08.13-14.27.50:358][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Main.Level_Main to /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main (0.003159s)
+[2021.08.13-14.27.50:405][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.08.13-14.27.50:406][372]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.08.13-14.27.50:406][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.27.50:406][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.27.50:406][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.27.50:406][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.27.50:406][372]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.27.50:406][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.27.50:406][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.27.50:406][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.27.50:407][372]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.27.50:407][372]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.27.50:409][372]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.27.50:409][372]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.27.50:423][372]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.27.50:423][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.27.50:423][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.27.50:423][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.27.50:424][372]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.27.50:424][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.27.50:424][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.27.50:438][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.27.50:438][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.27.50:438][372]LogInit: FAudioDevice initialized.
+[2021.08.13-14.27.50:438][372]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_Main'.
+[2021.08.13-14.27.50:444][372]LogLoad: Game class is 'GameModeBase'
+[2021.08.13-14.27.50:446][372]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main up for play (max tick rate 0) at 2021.08.13-23.27.50
+[2021.08.13-14.27.50:446][372]LogWorld: Bringing up level for play took: 0.000434
+[2021.08.13-14.27.50:446][372]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.08.13-14.27.50:448][372]PIE: Server logged in
+[2021.08.13-14.27.50:449][372]PIE: Play in editor total start time 0.121 seconds.
+[2021.08.13-14.27.51:808][532]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.27.51:808][532]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.13-14.27.51:809][532]LogNet: Browse: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.27.51:809][532]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.27.51:809][532]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.27.51:809][532]LogWorld: UWorld::CleanupWorld for Level_Main, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.27.51:809][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.27.51:879][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.27.51:882][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.08.13-14.27.51:948][532]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_Stage1'.
+[2021.08.13-14.27.51:948][532]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.27.51:949][532]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.27.51:956][532]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.27.51
+[2021.08.13-14.27.51:957][532]LogWorld: Bringing up level for play took: 0.007393
+[2021.08.13-14.27.51:959][532]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.27.51:959][532]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.27.51:960][532]LogLoad: Took 0.150964 seconds to LoadMap(/Game/StageLevel/Level_Stage1)
+[2021.08.13-14.27.57:783][227]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.27.57:783][227]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.13-14.28.00:432][545]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.28.00:432][545]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.28.00:433][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.28.00:434][545]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.28.00:465][545]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.28.00:467][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.28.00:483][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.28.00:497][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.28.00:574][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.28.00:575][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.28.00:577][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.28.00:596][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.28.00:605][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.08.13-14.28.00:641][546]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.08.13-14.28.01:725][670]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-14.28.01:730][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-14.28.01:730][670]PIE: New page: PIE session: Level_Main (2021. 8. 14. 오전 8:28:01)
+[2021.08.13-14.28.01:775][670]LogPlayLevel: Creating play world package: /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.28.01:776][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000927s)
+[2021.08.13-14.28.01:777][670]LogAIModule: Creating AISystem for world Level_Main
+[2021.08.13-14.28.01:777][670]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2021.08.13-14.28.01:777][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StageLevel/Level_Main.Level_Main to /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main (0.002002s)
+[2021.08.13-14.28.01:844][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.08.13-14.28.01:844][670]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.08.13-14.28.01:844][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-14.28.01:844][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-14.28.01:844][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-14.28.01:844][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-14.28.01:844][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-14.28.01:844][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-14.28.01:844][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-14.28.01:844][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-14.28.01:845][670]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-14.28.01:845][670]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-14.28.01:848][670]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-14.28.01:848][670]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-14.28.01:863][670]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.13-14.28.01:863][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-14.28.01:863][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-14.28.01:863][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-14.28.01:863][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-14.28.01:864][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-14.28.01:864][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-14.28.01:893][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-14.28.01:893][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-14.28.01:893][670]LogInit: FAudioDevice initialized.
+[2021.08.13-14.28.01:893][670]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_Main'.
+[2021.08.13-14.28.01:914][670]LogLoad: Game class is 'GameModeBase'
+[2021.08.13-14.28.01:917][670]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Main.Level_Main up for play (max tick rate 0) at 2021.08.13-23.28.01
+[2021.08.13-14.28.01:918][670]LogWorld: Bringing up level for play took: 0.001037
+[2021.08.13-14.28.01:918][670]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.08.13-14.28.01:926][670]PIE: Server logged in
+[2021.08.13-14.28.01:928][670]PIE: Play in editor total start time 0.199 seconds.
+[2021.08.13-14.28.03:182][811]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.13-14.28.03:182][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.13-14.28.03:184][811]LogNet: Browse: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.28.03:184][811]LogLoad: LoadMap: /Game/StageLevel/Level_Stage1
+[2021.08.13-14.28.03:184][811]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Main
+[2021.08.13-14.28.03:184][811]LogWorld: UWorld::CleanupWorld for Level_Main, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.28.03:184][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.28.03:269][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.28.03:275][811]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.08.13-14.28.03:338][811]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_Stage1'.
+[2021.08.13-14.28.03:339][811]LogAIModule: Creating AISystem for world Level_Stage1
+[2021.08.13-14.28.03:339][811]LogLoad: Game class is 'BP_GM_MainChar_C'
+[2021.08.13-14.28.03:347][811]LogWorld: Bringing World /Game/StageLevel/UEDPIE_0_Level_Stage1.Level_Stage1 up for play (max tick rate 0) at 2021.08.13-23.28.03
+[2021.08.13-14.28.03:348][811]LogWorld: Bringing up level for play took: 0.007590
+[2021.08.13-14.28.03:350][811]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.13-14.28.03:350][811]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.13-14.28.03:350][811]LogLoad: Took 0.166984 seconds to LoadMap(/Game/StageLevel/Level_Stage1)
+[2021.08.13-14.28.04:309][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.28.04:310][918]LogWorld: BeginTearingDown for /Game/StageLevel/UEDPIE_0_Level_Stage1
+[2021.08.13-14.28.04:310][918]LogWorld: UWorld::CleanupWorld for Level_Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-14.28.04:312][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.28.04:331][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-14.28.04:347][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-14.28.04:408][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-14.28.04:408][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.28.04:410][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-14.28.04:431][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-14.28.04:440][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.08.13-14.28.04:463][919]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.08.13-14.28.27:488][427]BlueprintLog: New page: Compile HUD_PauseLevel
+[2021.08.13-14.28.27:532][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.08.13-14.28.36:089][315]BlueprintLog: New page: Compile HUD_PauseLevel
+[2021.08.13-14.28.36:133][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.08.13-14.28.36:450][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_PauseLevel" FILE="D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_PauseLevel.uasset" SILENT=true
+[2021.08.13-14.28.36:465][349]LogSavePackage: Moving 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Saved/HUD_PauseLevelF5F7BE254A8E172A0AA2B3AC7627E99A.tmp' to 'D:/Unreal/KPUFinalTerm/KPU_DreamTeam_Official/KPU_DreamTeam_Demo/Content/HUD/HUD_PauseLevel.uasset'
+[2021.08.13-14.28.36:477][349]AssetCheck: New page: Asset Save: HUD_PauseLevel
+[2021.08.13-14.28.36:477][349]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HUD_PauseLevel.HUD_PauseLevel
